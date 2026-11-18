@@ -4,6 +4,8 @@
 
 **Status:** Onboarding is in development. Daily activity logging and progress tracking are planned.
 
+https://github.com/user-attachments/assets/1faf8cb3-cbf6-44ae-a866-11f01605c3d7
+
 ## Onboarding demo
 
 <!-- Paste the GitHub video upload URL here. -->
